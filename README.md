@@ -2,7 +2,7 @@
 A comparative data analysis project using Python to explore how global happiness
 
 ## 📌 Project Overview
-This project analyzes World Happiness Report data from **2019** and **2025**. By leveraging Python's data science stack, I investigate how variables like GDP, social support, and life expectancy correlate with overall happiness scores across different eras.
+This project analyzes World Happiness Report data from **2019** and **2015**. By leveraging Python's data science stack, I investigate how variables like GDP, social support, and life expectancy correlate with overall happiness scores across different eras.
 
 ## 📊 Key Features
 *   **Data Cleaning:** Handling missing values and aligning schemas between 2019 and 2025 datasets.
